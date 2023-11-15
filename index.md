@@ -1,7 +1,8 @@
 # Portfolio
+I can put my professional statement right here!
 
 ## Resource Description Examples
-**Works**
+**Works:**
 Descriptions of bibliographic works vary depending on the individual needs of the work described. In this example I provide some different encodings of *Black Zodiac*, a book of poems by Charles Wright, and *The Tao Te Ching*, the ancient philosphical text.
 
 ### BIBFRAME Example
