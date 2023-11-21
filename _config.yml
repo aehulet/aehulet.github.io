@@ -16,7 +16,7 @@ mathjax: true
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", title: "Professional Statement"}
+  - {file: "index.md", title: "Approach"}
   - {file: "metadata.md", title: "Metadata"}
   - {file: "search.md", title: "Search & Discovery"}
   - {file: "resume.md", title: "Resume"}
