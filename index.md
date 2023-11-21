@@ -10,7 +10,7 @@
     }
 </style>
 
-<img src="ah_casual.jpg" alt="photo of Andre Hulet">
+<img src="ah_casual.jpg" width="50" height="85" alt="photo of Andre Hulet">
 
 ## Library and Archival Practice
 <p>First paragraph</p>
