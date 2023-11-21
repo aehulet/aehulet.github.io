@@ -3,7 +3,7 @@
         margin-left: 10px;
     }
 </style>
-# My Approach
+# Library and Archival Practice
 <p>First paragraph</p>
 
 ## DEI As a Core Value in Metadata Development
