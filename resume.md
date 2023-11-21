@@ -4,7 +4,7 @@
     }
 </style>
 # Professional Experience
-[Download Short Resume](/hulet_resume_mlis.pdf)
+[Download Short Resume](/hulet_resume_MLIS.pdf)
 <br><br>
 [Download CV](/hulet_cv.pdf)
 <br><br>
