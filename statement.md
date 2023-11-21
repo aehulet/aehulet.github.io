@@ -1,11 +1,7 @@
 <style>
     p {
-        margin-left: 150px;
+        margin-left: 10px;
     }
-    h1, h2 {
-        margin-left: 140px;
-    }
-
 </style>
 
 ## Welcome
