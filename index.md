@@ -1,5 +1,8 @@
 <style>
     p {
+        margin-left: 15px;
+    }
+    h1, h2 {
         margin-left: 10px;
     }
 </style>
