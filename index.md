@@ -1,14 +1,13 @@
-# Portfolio
-I can put my professional statement right here!
+<style>
+    p {
+        margin-left: 10px;
+    }
+</style>
+# My Approach
+<p>First paragraph</p>
 
-## Resource Description Examples
-### Works
-Descriptions of bibliographic works vary depending on the individual needs of the work described. In this example I provide some different encodings of *Black Zodiac*, a book of poems by Charles Wright, and *The Tao Te Ching*, the ancient philosphical text.
+## DEI As a Core Value in Metadata Development
+<p>Second paragraph</p>
 
-#### BIBFRAME Example
-
-#### MARC Example
-
-#### Application Profile Example
-This example accounts for some of the unique features of the works in question by including schemae that address attributes such as prizes awarded and the availability of the text from specific publishers.
-
+## Improving Search and Discovery
+<p>Third paragraph</p>
