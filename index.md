@@ -1,9 +1,9 @@
 <style>
     p {
-        margin-left: 55px;
+        margin-left: 210px;
     }
     h1, h2 {
-        margin-left: 50px;
+        margin-left: 200px;
     }
 </style>
 # Library and Archival Practice
