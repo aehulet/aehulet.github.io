@@ -1,5 +1,5 @@
 ---
-title: "About This Site"
+title: "Contact Me"
 permalink: "/about/"
 layout: page
 ---
@@ -8,8 +8,7 @@ layout: page
         margin-left: 10px;
     }
 </style>
-## Contact Me
 
 <p>This site shows my personal portfolio. If you're interested in what you see, please contact me: andrehulet@gmail.com
-<br>
+<br><br>
 For questions about WikiframeVG, contact me here: andre.hulet@unlv.edu</p>
