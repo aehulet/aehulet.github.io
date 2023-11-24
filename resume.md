@@ -4,9 +4,7 @@
     }
 </style>
 # Professional Experience
-[Download Short Resume](/hulet_resume_MLIS.pdf)
+[Download Short Resume - LIS focused](/docs/hulet_resume_short.pdf)
 <br><br>
-[Download CV](/hulet_cv.pdf)
-<br><br>
-[Download Extended Resume](/hulet_resume_full.pdf)
+[Download Extended Resume - includes more tech experience](/docs/hulet_resume_long.pdf)
 <br><br>
