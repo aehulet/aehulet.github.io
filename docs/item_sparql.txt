@@ -1,0 +1,23 @@
+SELECT ?item ?itemLabel ?itemDescription ?wdprop ?wdpropLabel ?pso ?psoLabel ?wdpq ?wdpqLabel ?pqo ?pqoLabel
+WHERE {
+  VALUES ?item {wd:Q19957642} # Example is for Ruby Duncan. Works for any wikidata item.
+
+  # 1) return all 1st-order nodes & literals for the item
+  ?item ?p ?statement .
+
+  # 2) get all predicate/object values (sub-nodes & literals) for all
+  # 1st order nodes pointing inside and outside of wikidata graph
+  ?statement ?psp ?pso .
+
+  # 3) use :claim to return only statements in wikibase/data model
+  ?wdprop wikibase:claim ?p .
+
+  # 4) use :statementProperty to get only
+  # props in the ps namespace
+  ?wdprop wikibase:statementProperty ?psp .
+
+  # 5) use :qualifier to add pq namespace for any existing qualifiers.
+  OPTIONAL { ?statement ?pqp ?pqo . ?wdpq wikibase:qualifier ?pqp . }
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en" }
+} ORDER BY ?wdpropLabel

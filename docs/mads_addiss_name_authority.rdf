@@ -1,0 +1,240 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bflc="http://id.loc.gov/ontologies/bflc/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <madsrdf:PersonalName rdf:about="http://id.loc.gov/authorities/names/n78009070" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#">
+    <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+    <madsrdf:authoritativeLabel>Addiss, Stephen, 1935-2022</madsrdf:authoritativeLabel>
+    <madsrdf:elementList rdf:parseType="Collection">
+      <madsrdf:FullNameElement>
+	<madsrdf:elementValue>Addiss, Stephen,</madsrdf:elementValue>
+      </madsrdf:FullNameElement>
+      <madsrdf:DateNameElement>
+	<madsrdf:elementValue>1935-2022</madsrdf:elementValue>
+      </madsrdf:DateNameElement>
+    </madsrdf:elementList>
+    <madsrdf:hasVariant>
+      <madsrdf:PersonalName>
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Variant"/>
+	<madsrdf:variantLabel>Addiss, Steve, 1935-2022</madsrdf:variantLabel>
+	<madsrdf:elementList rdf:parseType="Collection">
+	  <madsrdf:FullNameElement>
+	    <madsrdf:elementValue>Addiss, Steve,</madsrdf:elementValue>
+	  </madsrdf:FullNameElement>
+	  <madsrdf:DateNameElement>
+	    <madsrdf:elementValue>1935-2022</madsrdf:elementValue>
+	  </madsrdf:DateNameElement>
+	</madsrdf:elementList>
+      </madsrdf:PersonalName>
+    </madsrdf:hasVariant>
+    <bflc:marcKey>1001 $aAddiss, Stephen,$d1935-2022</bflc:marcKey>
+    <madsrdf:hasCloseExternalAuthority>
+      <madsrdf:Authority rdf:about="http://www.wikidata.org/entity/Q55940071">
+	<madsrdf:authoritativeLabel>Stephen Addiss</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </madsrdf:hasCloseExternalAuthority>
+    <madsrdf:hasCloseExternalAuthority>
+      <madsrdf:Authority rdf:about="http://id.worldcat.org/fast/22318">
+	<madsrdf:authoritativeLabel>Addiss, Stephen, 1935-</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </madsrdf:hasCloseExternalAuthority>
+    <madsrdf:isMemberOfMADSCollection rdf:resource="http://id.loc.gov/authorities/names/collection_NamesAuthorizedHeadings"/>
+    <madsrdf:isMemberOfMADSCollection rdf:resource="http://id.loc.gov/authorities/names/collection_LCNAF"/>
+    <madsrdf:hasExactExternalAuthority rdf:resource="http://viaf.org/viaf/sourceID/LC%7Cn++78009070#skos:Concept"/>
+    <madsrdf:identifiesRWO>
+      <madsrdf:RWO rdf:about="http://id.loc.gov/rwo/agents/n78009070">
+	<rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<rdfs:label>Addiss, Stephen, 1935-2022</rdfs:label>
+	<madsrdf:birthDate rdf:datatype="http://id.loc.gov/datatypes/edtf/EDTF">1935-04-02</madsrdf:birthDate>
+	<madsrdf:deathDate rdf:datatype="http://id.loc.gov/datatypes/edtf/EDTF">2022-05-11</madsrdf:deathDate>
+	<madsrdf:birthPlace>
+	  <madsrdf:Geographic>
+	    <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/names"/>
+	    <rdfs:label>New York (N.Y.)</rdfs:label>
+	  </madsrdf:Geographic>
+	</madsrdf:birthPlace>
+	<madsrdf:fieldOfActivity>
+	  <skos:Concept rdf:about="http://id.loc.gov/authorities/subjects/sh85007726">
+	    <madsrdf:authoritativeLabel>Art, Japanese</madsrdf:authoritativeLabel>
+	  </skos:Concept>
+	</madsrdf:fieldOfActivity>
+	<madsrdf:occupation>
+	  <madsrdf:Occupation rdf:about="http://id.loc.gov/authorities/subjects/sh85008001">
+	    <madsrdf:authoritativeLabel>Art historians</madsrdf:authoritativeLabel>
+	  </madsrdf:Occupation>
+	</madsrdf:occupation>
+	<madsrdf:occupation>
+	  <madsrdf:Occupation rdf:about="http://id.loc.gov/authorities/subjects/sh85049920">
+	    <madsrdf:authoritativeLabel>Folk singers</madsrdf:authoritativeLabel>
+	  </madsrdf:Occupation>
+	</madsrdf:occupation>
+	<madsrdf:occupation>
+	  <madsrdf:Occupation rdf:about="http://id.loc.gov/authorities/subjects/sh85029386">
+	    <madsrdf:authoritativeLabel>Composers</madsrdf:authoritativeLabel>
+	  </madsrdf:Occupation>
+	</madsrdf:occupation>
+	<madsrdf:occupation>
+	  <madsrdf:Occupation rdf:about="http://id.loc.gov/authorities/subjects/sh85103733">
+	    <madsrdf:authoritativeLabel>Poets</madsrdf:authoritativeLabel>
+	  </madsrdf:Occupation>
+	</madsrdf:occupation>
+	<madsrdf:occupation>
+	  <madsrdf:Occupation rdf:about="http://id.loc.gov/authorities/subjects/sh85096653">
+	    <madsrdf:authoritativeLabel>Painters</madsrdf:authoritativeLabel>
+	  </madsrdf:Occupation>
+	</madsrdf:occupation>
+	<madsrdf:associatedLanguage>
+	  <madsrdf:Language rdf:about="http://id.loc.gov/vocabulary/languages/eng">
+	    <madsrdf:authoritativeLabel xml:lang="en">English</madsrdf:authoritativeLabel>
+	  </madsrdf:Language>
+	</madsrdf:associatedLanguage>
+	<bflc:contributorTo>
+		<bf:Work rdf:about="http://id.loc.gov/resources/works/2050961">
+			<bflc:aap>
+				Laozi. Tao te ching
+			</bflc:aap>
+		</bf:Work>
+	</bflc:contributorTo>
+	<bflc:contributorTo>
+		<bf:Work rdf:about="http://id.loc.gov/resources/works/17076086">
+			<bflc:aap>
+				Addiss, Stephen, 1935- The art of haiku
+			</bflc:aap>
+		</bf:Work>
+	</bflc:contributorTo>
+	<bflc:contributorTo>
+		<bf:Work rdf:about="http://id.loc.gov/resources/works/16095154">
+			<bflc:aap>
+				Seo, Audrey Yoshiko. sound of one hand : paintings and calligraphy by Zen master Hakuin
+			</bflc:aap>
+		</bf:Work>
+	</bflc:contributorTo>      
+      </madsrdf:RWO>
+    </madsrdf:identifiesRWO>
+    <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/names"/>
+    <madsrdf:fullerName>
+      <madsrdf:PersonalName>
+	<rdfs:label>Stephen L.</rdfs:label>
+      </madsrdf:PersonalName>
+    </madsrdf:fullerName>
+    <identifiers:lccn xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/">n 78009070</identifiers:lccn>
+    <identifiers:local xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/">(OCoLC)oca00145577</identifiers:local>
+    <madsrdf:hasSource>
+      <madsrdf:Source>
+	<madsrdf:citationSource>His Wanga paintings, c1975:</madsrdf:citationSource>
+	<madsrdf:citationNote>t.p. (Stephen Addiss)</madsrdf:citationNote>
+	<madsrdf:citationStatus>found</madsrdf:citationStatus>
+      </madsrdf:Source>
+    </madsrdf:hasSource>
+    <madsrdf:hasSource>
+      <madsrdf:Source>
+	<madsrdf:citationSource>World tour with folk songs (Phonodisc, 1962) (a.e.)</madsrdf:citationSource>
+	<madsrdf:citationNote>(Stephen Addiss, folksinger)</madsrdf:citationNote>
+	<madsrdf:citationStatus>found</madsrdf:citationStatus>
+      </madsrdf:Source>
+    </madsrdf:hasSource>
+    <madsrdf:hasSource>
+      <madsrdf:Source>
+	<madsrdf:citationSource>His A Japanese eccentric, 1979:</madsrdf:citationSource>
+	<madsrdf:citationNote>t.p. (Stephen Addiss)</madsrdf:citationNote>
+	<madsrdf:citationStatus>found</madsrdf:citationStatus>
+      </madsrdf:Source>
+    </madsrdf:hasSource>
+    <madsrdf:hasSource>
+      <madsrdf:Source>
+	<madsrdf:citationSource>Phone call to author in Lawrence, Kan.</madsrdf:citationSource>
+	<madsrdf:citationNote>(Stephen Addiss, b. Apr. 2, 1935; is a folk singer and the author of Wanga paintings, c1975)</madsrdf:citationNote>
+	<madsrdf:citationStatus>found</madsrdf:citationStatus>
+      </madsrdf:Source>
+    </madsrdf:hasSource>
+    <madsrdf:hasSource>
+      <madsrdf:Source>
+	<madsrdf:citationSource>Lao-tzu Tao te ching, c1993:</madsrdf:citationSource>
+	<madsrdf:citationNote>CIP t.p. (Stephen Addiss) CIP data sheet (b. Apr. 2, 1935)</madsrdf:citationNote>
+	<madsrdf:citationStatus>found</madsrdf:citationStatus>
+      </madsrdf:Source>
+    </madsrdf:hasSource>
+    <madsrdf:hasSource>
+      <madsrdf:Source>
+	<madsrdf:citationSource>Addiss, Stephen. Haiku humor, 2007:</madsrdf:citationSource>
+	<madsrdf:citationNote>ECIP t.p. (Stephen Addiss)</madsrdf:citationNote>
+	<madsrdf:citationStatus>found</madsrdf:citationStatus>
+      </madsrdf:Source>
+    </madsrdf:hasSource>
+    <madsrdf:hasSource>
+      <madsrdf:Source>
+	<madsrdf:citationSource>In the year of the pig, 2005:</madsrdf:citationSource>
+	<madsrdf:citationNote>credits (Steve Addiss; music)</madsrdf:citationNote>
+	<madsrdf:citationStatus>found</madsrdf:citationStatus>
+      </madsrdf:Source>
+    </madsrdf:hasSource>
+    <madsrdf:hasSource>
+      <madsrdf:Source>
+	<madsrdf:citationSource>Internet movie database, August 26, 2014</madsrdf:citationSource>
+	<madsrdf:citationNote>(Steve Addiss; composer, musician, poet, painter, Japanese art historian; born Stephen L. Addiss, 1935, New York, New York)</madsrdf:citationNote>
+	<madsrdf:citationStatus>found</madsrdf:citationStatus>
+      </madsrdf:Source>
+    </madsrdf:hasSource>
+    <madsrdf:hasSource>
+      <madsrdf:Source>
+	<madsrdf:citationSource>Shambala, viewed Feb. 14, 2023</madsrdf:citationSource>
+	<madsrdf:citationSource rdf:resource="https://www.shambhala.com/stephen-addiss/"/>
+	<madsrdf:citationNote>(Stephen Addiss, d. May 11, 2022; Stephen was a Professor of Art at the University of Richmond in Virginia. A scholar-artist, he has exhibited his ink paintings and calligraphy in Asia, Europe, and the United States. He was also the author or coauthor of more than thirty books and catalogues about East Asian arts, including, with Audrey Yoshiko Seo, The Sound of One Hand: The Paintings and Calligraphy of Zen Master Hakuin)</madsrdf:citationNote>
+	<madsrdf:citationStatus>found</madsrdf:citationStatus>
+      </madsrdf:Source>
+    </madsrdf:hasSource>
+    <madsrdf:adminMetadata>
+      <ri:RecordInfo xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#">
+	<ri:recordChangeDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1978-03-02T00:00:00</ri:recordChangeDate>
+	<ri:recordStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#string">new</ri:recordStatus>
+	<ri:recordContentSource rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+	<ri:languageOfCataloging rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      </ri:RecordInfo>
+    </madsrdf:adminMetadata>
+    <madsrdf:adminMetadata>
+      <ri:RecordInfo xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#">
+	<ri:recordChangeDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-09-07T06:46:23</ri:recordChangeDate>
+	<ri:recordStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#string">revised</ri:recordStatus>
+	<ri:recordContentSource rdf:resource="http://id.loc.gov/vocabulary/organizations/ocolc"/>
+	<ri:languageOfCataloging rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      </ri:RecordInfo>
+    </madsrdf:adminMetadata>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Addiss, Stephen, 1935-2022</skos:prefLabel>
+    <skosxl:altLabel xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#">
+      <rdf:Description>
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	<skosxl:literalForm>Addiss, Steve, 1935-2022</skosxl:literalForm>
+      </rdf:Description>
+    </skosxl:altLabel>
+    <skos:exactMatch rdf:resource="http://viaf.org/viaf/sourceID/LC%7Cn++78009070#skos:Concept"/>
+    <skos:closeMatch>
+      <rdf:Description rdf:about="http://www.wikidata.org/entity/Q55940071">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel>Stephen Addiss</skos:prefLabel>
+      </rdf:Description>
+    </skos:closeMatch>
+    <skos:closeMatch>
+      <rdf:Description rdf:about="http://id.worldcat.org/fast/22318">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel>Addiss, Stephen, 1935-</skos:prefLabel>
+      </rdf:Description>
+    </skos:closeMatch>
+    <skos:inScheme rdf:resource="http://id.loc.gov/authorities/names"/>
+    <skos:altLabel>Addiss, Steve, 1935-2022</skos:altLabel>
+    <skos:changeNote>
+      <cs:ChangeSet xmlns:cs="http://purl.org/vocab/changeset/schema#">
+	<cs:subjectOfChange rdf:resource="http://id.loc.gov/authorities/names/n78009070"/>
+	<cs:creatorName rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+	<cs:createdDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1978-03-02T00:00:00</cs:createdDate>
+	<cs:changeReason rdf:datatype="http://www.w3.org/2001/XMLSchema#string">new</cs:changeReason>
+      </cs:ChangeSet>
+    </skos:changeNote>
+    <skos:changeNote>
+      <cs:ChangeSet xmlns:cs="http://purl.org/vocab/changeset/schema#">
+	<cs:subjectOfChange rdf:resource="http://id.loc.gov/authorities/names/n78009070"/>
+	<cs:creatorName rdf:resource="http://id.loc.gov/vocabulary/organizations/ocolc"/>
+	<cs:createdDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-09-07T06:46:23</cs:createdDate>
+	<cs:changeReason rdf:datatype="http://www.w3.org/2001/XMLSchema#string">revised</cs:changeReason>
+      </cs:ChangeSet>
+    </skos:changeNote>
+  </madsrdf:PersonalName>
+</rdf:RDF>

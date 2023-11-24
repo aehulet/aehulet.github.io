@@ -1,0 +1,345 @@
+<rdf:RDF xmlns:bflc="http://id.loc.gov/ontologies/bflc/" xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bfsimple="http://id.loc.gov/ontologies/bfsimple/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:lclocal="http://id.loc.gov/ontologies/lclocal/" xmlns:pmo="http://performedmusicontology.org/ontology/" xmlns:datatypes="http://id.loc.gov/datatypes/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:void="http://rdfs.org/ns/void#" xmlns:mstatus="https://id.loc.gov/vocabulary/mstatus/" xmlns:mnotetype="http://id.loc.gov/vocabulary/mnotetype/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:dcterms="http://purl.org/dc/terms/">
+ <bf:Instance xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.loc.gov/resources/instances/33c7964a-ca56-4dbb-9003-97df51dff9c9">
+  <bf:title>
+   <bf:Title>
+    <bf:mainTitle>Tao Te Ching</bf:mainTitle>
+   </bf:Title>
+  </bf:title>
+  <bf:responsibilityStatement>Stephen Addiss and Stanley Lombardo</bf:responsibilityStatement>
+  <bf:provisionActivity>
+   <bf:Publication>
+    <bf:date>1993</bf:date>
+    <bf:place>
+     <bf:Place rdf:about="http://id.loc.gov/vocabulary/countries/inu">
+      <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Indiana</rdfs:label>
+     </bf:Place>
+    </bf:place>
+    <bflc:simplePlace xmlns:bflc="http://id.loc.gov/ontologies/bflc/">Indianapolis</bflc:simplePlace>
+    <bflc:simpleAgent xmlns:bflc="http://id.loc.gov/ontologies/bflc/">Hackett Publishing Company, Inc.</bflc:simpleAgent>
+   </bf:Publication>
+  </bf:provisionActivity>
+  <bf:copyrightDate>1993</bf:copyrightDate>
+  <bf:contribution>
+   <bf:Contribution>
+    <bf:role>
+     <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/trl">
+      <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Translator</rdfs:label>
+     </bf:Role>
+    </bf:role>
+    <bf:agent>
+     <bf:Agent rdf:about="http://id.loc.gov/authorities/names/n81135727">
+      <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#PersonalName"/>
+      <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Lombardo, Stanley, 1943-</rdfs:label>
+     </bf:Agent>
+    </bf:agent>
+   </bf:Contribution>
+  </bf:contribution>
+  <bf:issuance>
+   <bf:Issuance rdf:about="http://id.loc.gov/vocabulary/issuance/mono">
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">single unit</rdfs:label>
+   </bf:Issuance>
+  </bf:issuance>
+  <bf:identifiedBy>
+   <bf:Isbn>
+    <rdf:value>0-87220-232-1</rdf:value>
+   </bf:Isbn>
+  </bf:identifiedBy>
+  <bf:note>
+   <bf:Note>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Out of print. Reissued by Shambala Publications, Inc., 2007.</rdfs:label>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Administrative history</rdfs:label>
+   </bf:Note>
+  </bf:note>
+  <bf:immediateAcquisition>
+   <bf:ImmediateAcquisition>
+    <bflc:applicableInstitution xmlns:bflc="http://id.loc.gov/ontologies/bflc/">
+     <bf:Organization rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+      <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">United States, Library of Congress</rdfs:label>
+     </bf:Organization>
+    </bflc:applicableInstitution>
+   </bf:ImmediateAcquisition>
+  </bf:immediateAcquisition>
+  <bf:media>
+   <bf:Media rdf:about="http://id.loc.gov/vocabulary/mediaTypes/n">
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">unmediated</rdfs:label>
+   </bf:Media>
+  </bf:media>
+  <bf:extent>
+   <bf:Extent>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">cm</rdfs:label>
+   </bf:Extent>
+  </bf:extent>
+  <bf:carrier>
+   <bf:Carrier rdf:about="http://id.loc.gov/vocabulary/carriers/nc">
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">volume</rdfs:label>
+   </bf:Carrier>
+  </bf:carrier>
+  <bf:adminMetadata>
+   <bf:AdminMetadata>
+    <bflc:catalogerId xmlns:bflc="http://id.loc.gov/ontologies/bflc/">andrehulet</bflc:catalogerId>
+    <bf:assigner>
+     <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+      <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">DLC</rdfs:label>
+     </bf:Agent>
+    </bf:assigner>
+    <bf:descriptionAuthentication>
+     <bf:DescriptionAuthentication rdf:about="http://id.loc.gov/vocabulary/marcauthen/pcc">
+      <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">pcc</rdfs:label>
+     </bf:DescriptionAuthentication>
+    </bf:descriptionAuthentication>
+    <bf:descriptionConventions>
+     <bf:DescriptionConventions rdf:about="http://id.loc.gov/vocabulary/descriptionConventions/rda">
+      <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">rda</rdfs:label>
+     </bf:DescriptionConventions>
+    </bf:descriptionConventions>
+    <bf:descriptionLanguage>
+     <bf:Language rdf:about="http://id.loc.gov/vocabulary/languages/eng">
+      <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">English</rdfs:label>
+     </bf:Language>
+    </bf:descriptionLanguage>
+    <bf:descriptionModifier>
+     <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+      <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">DLC</rdfs:label>
+     </bf:Agent>
+    </bf:descriptionModifier>
+    <bflc:encodingLevel xmlns:bflc="http://id.loc.gov/ontologies/bflc/">
+     <bflc:EncodingLevel rdf:about="http://id.loc.gov/vocabulary/menclvl/5">
+      <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">preliminary</rdfs:label>
+     </bflc:EncodingLevel>
+    </bflc:encodingLevel>
+    <bf:status>
+     <bf:Status rdf:about="http://id.loc.gov/vocabulary/mstatus/n">
+      <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">new</rdfs:label>
+     </bf:Status>
+    </bf:status>
+    <bflc:profile xmlns:bflc="http://id.loc.gov/ontologies/bflc/">lc:RT:bf2:Monograph:Instance</bflc:profile>
+    <bflc:procInfo xmlns:bflc="http://id.loc.gov/ontologies/bflc/">create work</bflc:procInfo>
+    <bf:creationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-11-19T15:16:16Z</bf:creationDate>
+    <bf:changeDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-11-23T14:32:03Z</bf:changeDate>
+   </bf:AdminMetadata>
+  </bf:adminMetadata>
+  <bf:instanceOf>
+   <bf:Work xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.loc.gov/resources/works/33c7964a-ca56-4dbb-9003-97df51dff9c9">
+    <bf:contribution>
+     <bflc:PrimaryContribution xmlns:bflc="http://id.loc.gov/ontologies/bflc/">
+      <bf:agent>
+       <bf:Agent rdf:about="http://id.loc.gov/authorities/names/n80161865">
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#PersonalName"/>
+        <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Laozu</rdfs:label>
+       </bf:Agent>
+      </bf:agent>
+      <bf:role>
+       <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/aut">
+        <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Author</rdfs:label>
+       </bf:Role>
+      </bf:role>
+     </bflc:PrimaryContribution>
+    </bf:contribution>
+    <bf:title>
+     <bf:Title>
+      <bf:mainTitle>Tao Te Ching</bf:mainTitle>
+      <bf:mainTitle>Tao Te Ching</bf:mainTitle>
+     </bf:Title>
+    </bf:title>
+    <bf:genreForm>
+     <bf:GenreForm>
+      <bf:source>
+       <bf:Source rdf:about="http://id.loc.gov/vocabulary/genreFormSchemes/marcgt">
+        <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">MARC genre terms</rdfs:label>
+       </bf:Source>
+      </bf:source>
+      <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">book</rdfs:label>
+     </bf:GenreForm>
+    </bf:genreForm>
+    <bf:originDate>1993</bf:originDate>
+    <bf:originPlace>
+     <bf:Place rdf:about="http://id.loc.gov/vocabulary/countries/cc">
+      <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">China</rdfs:label>
+     </bf:Place>
+    </bf:originPlace>
+    <bf:contribution>
+     <bf:Contribution>
+      <bf:agent>
+       <bf:Agent rdf:about="http://id.loc.gov/authorities/names/n78009070">
+        <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person"/>
+        <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Addiss, Stephen, 1935-2022</rdfs:label>
+       </bf:Agent>
+      </bf:agent>
+      <bf:role>
+       <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/trl">
+        <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Translator</rdfs:label>
+       </bf:Role>
+      </bf:role>
+     </bf:Contribution>
+    </bf:contribution>
+    <bf:contribution>
+     <bf:Contribution>
+      <bf:agent>
+       <bf:Agent rdf:about="http://id.loc.gov/authorities/names/n78009070">
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#PersonalName"/>
+        <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Addiss, Stephen, 1935-2022</rdfs:label>
+       </bf:Agent>
+      </bf:agent>
+      <bf:role>
+       <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/art">
+        <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Artist</rdfs:label>
+       </bf:Role>
+      </bf:role>
+     </bf:Contribution>
+    </bf:contribution>
+    <bf:contribution>
+     <bf:Contribution>
+      <bf:agent>
+       <bf:Agent rdf:about="http://id.loc.gov/authorities/names/n50021871">
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#PersonalName"/>
+        <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Watson, Burton, 1925-2017</rdfs:label>
+       </bf:Agent>
+      </bf:agent>
+      <bf:role>
+       <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/aui">
+        <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Author of introduction, etc.</rdfs:label>
+       </bf:Role>
+      </bf:role>
+     </bf:Contribution>
+    </bf:contribution>
+    <bf:contribution>
+     <bf:Contribution>
+      <bf:agent>
+       <bf:Agent rdf:about="http://id.loc.gov/authorities/names/n81135727">
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#PersonalName"/>
+        <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Lombardo, Stanley, 1943-</rdfs:label>
+       </bf:Agent>
+      </bf:agent>
+      <bf:role>
+       <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/trl">
+        <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Translator</rdfs:label>
+       </bf:Role>
+      </bf:role>
+     </bf:Contribution>
+    </bf:contribution>
+    <bf:tableOfContents>
+     <bf:TableOfContents>
+      <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Introduction; Translator's Preface; Chinese Pronunciation Guide; Tao Te Ching; Glossary of Chinese Words; Captions</rdfs:label>
+     </bf:TableOfContents>
+    </bf:tableOfContents>
+    <bf:summary>
+     <bf:Summary>
+      <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Provides historical context for the Tao Te Ching and explains the translation approach. The primary text contemplates the creative principle in nature and its effect on ethics and familial, social, and political relationships.</rdfs:label>
+     </bf:Summary>
+    </bf:summary>
+    <bf:subject>
+     <madsrdf:Topic xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" rdf:about="http://id.loc.gov/authorities/subjects/sh2014002232">
+      <bf:source>
+       <bf:Source rdf:about="http://id.loc.gov/vocabulary/subjectSchemes/lcsh">
+        <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Library of Congress subject headings</rdfs:label>
+       </bf:Source>
+      </bf:source>
+      <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/subjects"/>
+      <madsrdf:authoritativeLabel>Philosophy and aesthetics</madsrdf:authoritativeLabel>
+      <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Philosophy and aesthetics</rdfs:label>
+     </madsrdf:Topic>
+    </bf:subject>
+    <bf:subject>
+     <madsrdf:Topic xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" rdf:about="http://id.loc.gov/authorities/subjects/sh2002007663">
+      <bf:source>
+       <bf:Source rdf:about="http://id.loc.gov/vocabulary/subjectSchemes/lcsh">
+        <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Library of Congress subject headings</rdfs:label>
+       </bf:Source>
+      </bf:source>
+      <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/subjects"/>
+      <madsrdf:authoritativeLabel>Religion</madsrdf:authoritativeLabel>
+      <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Religion</rdfs:label>
+     </madsrdf:Topic>
+    </bf:subject>
+    <bf:classification>
+     <bf:ClassificationLcc>
+      <bf:assigner>
+       <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+        <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">United States, Library of Congress</rdfs:label>
+       </bf:Agent>
+      </bf:assigner>
+      <bf:classificationPortion>BL1900.L26E5 1993b</bf:classificationPortion>
+     </bf:ClassificationLcc>
+    </bf:classification>
+    <bf:content>
+     <bf:Content rdf:about="http://id.loc.gov/vocabulary/contentTypes/txt">
+      <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">text</rdfs:label>
+     </bf:Content>
+    </bf:content>
+    <bf:content>
+     <bf:Content rdf:about="http://id.loc.gov/vocabulary/contentTypes/sti">
+      <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">still image</rdfs:label>
+     </bf:Content>
+    </bf:content>
+    <bf:language>
+     <bf:Language rdf:about="http://id.loc.gov/vocabulary/languages/eng">
+      <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">English</rdfs:label>
+     </bf:Language>
+    </bf:language>
+    <bf:language>
+     <bf:Language rdf:about="http://id.loc.gov/vocabulary/languages/chi">
+      <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Chinese</rdfs:label>
+     </bf:Language>
+    </bf:language>
+    <bflc:relationship xmlns:bflc="http://id.loc.gov/ontologies/bflc/">
+     <bflc:Relationship>
+      <bflc:relation>
+       <bflc:Relation rdf:about="http://id.loc.gov/ontologies/bibframe/expressionOf">
+        <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Expression of</rdfs:label>
+       </bflc:Relation>
+      </bflc:relation>
+      <bf:relatedTo>
+       <bflc:Relationship rdf:about="http://id.loc.gov/resources/hubs/42abf244-bec0-a8f9-beeb-828bd5338bb7">
+        <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Laozi. Tao te ching</rdfs:label>
+       </bflc:Relationship>
+      </bf:relatedTo>
+     </bflc:Relationship>
+    </bflc:relationship>
+    <bf:adminMetadata>
+     <bf:AdminMetadata>
+      <bflc:catalogerId xmlns:bflc="http://id.loc.gov/ontologies/bflc/">andrehulet</bflc:catalogerId>
+      <bf:assigner>
+       <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+        <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">DLC</rdfs:label>
+       </bf:Agent>
+      </bf:assigner>
+      <bf:descriptionAuthentication>
+       <bf:DescriptionAuthentication rdf:about="http://id.loc.gov/vocabulary/marcauthen/pcc">
+        <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">pcc</rdfs:label>
+       </bf:DescriptionAuthentication>
+      </bf:descriptionAuthentication>
+      <bf:descriptionConventions>
+       <bf:DescriptionConventions rdf:about="http://id.loc.gov/vocabulary/descriptionConventions/rda">
+        <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">rda</rdfs:label>
+       </bf:DescriptionConventions>
+      </bf:descriptionConventions>
+      <bf:descriptionLanguage>
+       <bf:Language rdf:about="http://id.loc.gov/vocabulary/languages/eng">
+        <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">English</rdfs:label>
+       </bf:Language>
+      </bf:descriptionLanguage>
+      <bf:descriptionModifier>
+       <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+        <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">DLC</rdfs:label>
+       </bf:Agent>
+      </bf:descriptionModifier>
+      <bflc:encodingLevel xmlns:bflc="http://id.loc.gov/ontologies/bflc/">
+       <bflc:EncodingLevel rdf:about="http://id.loc.gov/vocabulary/menclvl/5">
+        <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">preliminary</rdfs:label>
+       </bflc:EncodingLevel>
+      </bflc:encodingLevel>
+      <bf:status>
+       <bf:Status rdf:about="http://id.loc.gov/vocabulary/mstatus/n">
+        <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">new</rdfs:label>
+       </bf:Status>
+      </bf:status>
+      <bflc:profile xmlns:bflc="http://id.loc.gov/ontologies/bflc/">lc:RT:bf2:Monograph:Work</bflc:profile>
+      <bflc:procInfo xmlns:bflc="http://id.loc.gov/ontologies/bflc/">create work</bflc:procInfo>
+      <bf:creationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-11-19T15:16:16Z</bf:creationDate>
+      <bf:changeDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-11-23T14:32:03Z</bf:changeDate>
+     </bf:AdminMetadata>
+    </bf:adminMetadata>
+   </bf:Work>
+  </bf:instanceOf>
+ </bf:Instance>
+</rdf:RDF>
