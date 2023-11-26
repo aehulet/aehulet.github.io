@@ -17,7 +17,7 @@ mathjax: true
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "metadata.md", title: "Metadata"}
-  - {file: "search.md", title: "Search & Discovery"}
+  - {file: "search.md", title: "Technical Work"}
   - {file: "resume.md", title: "Resume"}
   - {file: "README.md", title: "Contact"}
 
