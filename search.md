@@ -1,3 +1,6 @@
+---
+layout: page
+---
 <style>
     p {
         margin-left: 10px;
@@ -5,13 +8,12 @@
 </style>
 # Technical Work Examples
 
-## Wikiframe Visual Graph
+## Search & Discovery with Wikiframe Visual Graph
 
-## Requirements Development
+## WikiframeVG Requirements Development
 
 ## Querying with SPARQL
 
 ## Data Processing with MySQL
 
-## Data Processing with Wikidata & Python
 

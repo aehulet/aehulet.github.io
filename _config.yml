@@ -17,8 +17,9 @@ mathjax: true
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "metadata.md", title: "Metadata"}
-  - {file: "search.md", title: "Technical Work"}
-  - {file: "resume.md", title: "Resume"}
+  - {file: "search.md", title: "Technology"}
+  - {file: "libe.md", title: "Librarianship"}
+  - {file: "resume.md", title: "Resumes"}
   - {file: "README.md", title: "Contact"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons

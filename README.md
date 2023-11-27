@@ -17,5 +17,5 @@ layout: page
 <p>This site shows my library and information science portfolio. If you're interested in what you see, please contact me.
 
 <p>email: andrehulet@gmail.com</p>
-<p>OSF: andrehulet@gmail.com</p>
+<p>Open Science Framework: andrehulet@gmail.com</p>
 <p>ORCID: andrehulet@gmail.com</p>

@@ -7,7 +7,7 @@ layout: page
     }
 </style>
 
-## Welcome
+## About Me
 <p>I am a metadata librarian and programmer, and I focus on digital collection development. This site contains a concise portfolio of my work in library and information science. My thanks goes out to the people who have helped me create these examples.</p>
 
 ## Collections and the Public Good
