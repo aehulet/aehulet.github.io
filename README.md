@@ -15,7 +15,8 @@ layout: page
     .logo {
         display: inline;
         float: left;
-        padding: 5px;
+        padding-inline: 5px;
+        padding-bottom: 5px;
     }
 
 </style>

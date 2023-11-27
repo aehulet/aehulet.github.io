@@ -24,7 +24,7 @@ layout: page
  * [Link to query in Wikidata query window](https://w.wiki/8G5b)
  * [SPARQL statement for Wikidata Item](/docs/item_sparql.txt)
 
-## Data Processing with MySQL
+## Data Processing with SQL & Python
 <p>Data processing workflows are a critical aspect of data management; data must be routinely retrieved, updated, transformed, transmitted, extracted, or loaded, depending on the situation. In this example, I wrote SQL stored procedures for managing reporting data that must be cached and managed via the Wikidata Query Service. The accompanying Python script implements the workflow that retrieves the data, logs into the database, saves current report data to a history table, truncates the active report table, and inserts the new data.</p>
 
  * [SQL Stored procedures](/docs/cache_report_data_sql.txt)
