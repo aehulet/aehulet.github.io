@@ -16,7 +16,7 @@ layout: page
  
 <p>My updated work/instance file below more thoroughly describes the work as recorded in the Hackett instance. The work description would replace the two existing works on id.loc.gov, and both the LOC Hackett instance and the Shambala instance would be linked to it. </p>
 
- * [Tao Te Ching Work/Instance, BIBFRAME](/docs/bibframe_taoteching.rdf) 
+ * [Improved Tao Te Ching Work/Instance, BIBFRAME](/docs/bibframe_taoteching.rdf) 
 
 ## Modeling Name Authority in MADS, SKOS & BIBFRAME
 <p>While analyzing the links for my Tao Te Ching entry, it was clear that the authority entry for Stephen Addiss, the artist and translator who worked on the book, needed additional information. In particular, there are no links to his most well-known works, including the Tao Te Ching. I used the BIBFRAME Extension (bflc) vocabulary to record references to these works to enhance description and information retrieval.</p>
