@@ -16,7 +16,7 @@ layout: page
         display: inline;
         float: left;
         padding-inline: 5px;
-        padding-bottom: 5px;
+        padding-bottom: 10px;
     }
 
 </style>
