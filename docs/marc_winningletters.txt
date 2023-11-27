@@ -1,0 +1,45 @@
+##############################
+# MARC RECORD				 #
+##############################
+
+>020    $a 1570232547
+
+>040    $a CTA $c CTA
+
+>049    $a CTAA
+
+>100 1  Porot, Daniel, $d 1941-   
+
+>245 10 $a Winning letters that overcome barriers to employment / $c Daniel Porot and Frances Bolles Haynes.
+
+>246 1  $i Cover subtitle: $a 12 quick and easy steps to land job interviews
+
+>264 1  $a Manassas Park, VA : $b Impact Publications , $c 2006.
+
+>300    $a v, 217 pages : $b illustrations ; $c 26 cm.
+
+>336    $a text $b txt $2 rdacontent
+
+>337    $a unmediated $b n $2 rdamedia
+
+>338    $a volume $b nc $2 rdacarrier
+
+>490 1  $a Overcoming barriers to employment
+
+>500    $a Includes index.
+
+>650  0 Cover letters
+
+>650  0 Job hunting.
+
+>700 1  Haynes, Frances Bolles $e author
+
+>830  0 Overcoming barriers to employment series
+
+ARNs
+3895138 – Porot, Daniel
+5026578 – Haynes, Frances Bolles
+7344274 – Overcoming barriers to employment series
+OCLC 1020186215
+150 Cover letters ARN: 2134529
+

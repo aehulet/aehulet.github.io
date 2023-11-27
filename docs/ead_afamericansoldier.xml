@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601"> 
+	<eadid countrycode="us" identifier="" mainagencycode="" publicid=""></eadid> 
+	<filedesc> 
+	<titlestmt> 
+	<titleproper>African American Civil War soldier in Union uniform.</titleproper> 
+	</titlestmt> 
+	<publicationstmt> 
+	<publisher>Online Archive of California</publisher>  
+	<p>The Regents of the University of California. All rights reserved.</p> 
+	</publicationstmt> 
+	</filedesc> 
+	<profiledesc> 
+	<creation><date normal="ISO 8601">2022-05-03</date></creation> 
+	<langusage>Description is in <language langcode="eng" scriptcode="latn" >English.</language></langusage> 
+	</profiledesc> 
+</eadheader>
+<archdesc level="collection" relatedencoding="marc21"> 
+<did>
+	<unittitle label="Title">African American Civil War soldier in Union uniform.</unittitle> 
+	<unitdate normal="1860/1865">1860-1865</unitdate>
+	<unitid label="Case Number" repositorycode="Consult Repository" countrycode="us">BANC PIC 1975.049:001--CASE</unitid>
+	<physdesc> 
+	<extent>sixth plate, visible image 7.8 x 6 cm.</extent>
+	<genreform>Photograph</genreform>
+	<genreform>Still Image</genreform>
+	<genreform>Portraits</genreform>
+	<genreform>Tintypes</genreform>
+	</physdesc>
+	<repository label="Repository"> 
+	<corpname source="lcnaf">UC Berkeley, <subarea>Bancroft Library</subarea>
+	</corpname> 
+	</repository>
+	<abstract label="Abstract">
+	Half length portrait of a man seated with one arm resting on a table.</abstract>
+	<langmaterial label="Languages"> 
+	<language langcode="eng">English</language> 
+	</langmaterial>
+	<note>displayLabel="Image Package Note">Original component parts: plate. Plate: buttons and uniform slightly hand colored.;;;displayLabel="Container or Case Note">Type: no container.;;</note>
+</did>
+<accessrestrict> <head>Copyright</head> <p>Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.). In addition, the reproduction of some materials may be restricted by terms of University of California gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</p> 
+</accessrestrict>
+<userestrict> <head>Use and reproduction</head> <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Public Services, The Bancroft Library, University of California, Berkeley 94720-6000. See: http://bancroft.berkeley.edu/reference/permissions.html</p> 
+</userestrict>
+<controlaccess> 
+<head>Indexing Terms</head> 
+<p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p> 
+<geogname source="tgn">United States</geogname>
+<corpname role="con" source="lcnaf">University of California, Berkeley</corpname>
+<corpname role="con" source="lcnaf">Bancroft Library</corpname>
+<genreform>Men</genreform>
+<genreform>Soldiers</genreform>
+</controlaccess>
+<relatedMaterial>
+	<p>Information about digitized image and larger project.</p>
+	<linkgrp type="Extended">
+		<extrefloc href="https://cdn.calisphere.org/data/13030/2p/tf9z09p12p/files/tf9z09p12p-FID4.jpg">
+			<archdesc>brk00041493_8a.tif</archdesc>
+		</extrefloc>
+		<extrefloc href="https://bancroft.berkeley.edu/collections/casedphotos/project.html">
+		<archdesc>Cased Photographs Project, Bancroft Library and The California State Library</archdesc>
+		</extrefloc>
+	</linkgrp>
+</relatedMaterial>
+</archdesc> 
+</ead>

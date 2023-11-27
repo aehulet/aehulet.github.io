@@ -1,0 +1,41 @@
+/* MOVE CURRENT CONTENTS OF REPORT TABLE TO HISTORY TABLE */
+CREATE DEFINER=`service`@`localhost` PROCEDURE `cache_report_data`()
+BEGIN
+	DECLARE the_date DATETIME;
+    DECLARE subj VARCHAR(45);
+    DECLARE cnt INT;
+	DECLARE done INT DEFAULT FALSE;
+    DECLARE c CURSOR FOR SELECT subject_type, count from discover.stat_subject_counts;
+    DECLARE CONTINUE HANDLER FOR NOT FOUND SET done = TRUE;
+    
+    SET the_date = now();
+    OPEN c;
+    
+    read_loop: LOOP
+		FETCH c INTO subj, cnt;
+		IF done THEN
+			LEAVE read_loop;
+		END IF;
+    
+		INSERT INTO discover.stat_subject_hist (date_cached, subject_type, count) VALUES(the_date, subj, cnt);
+    END LOOP;
+    
+    CLOSE c;
+END
+
+
+/* REMOVE ALL CURRENT CONTENTS FROM REPORT TABLE TABLE */
+CREATE DEFINER=`service`@`localhost` PROCEDURE `trunc_subject_data`()
+BEGIN
+	TRUNCATE TABLE discover.stat_subject_counts;
+    COMMIT;
+END
+
+
+/* INSERT SINGLE SUBJECT COUNT RECORD INTO REPORT TABLE */
+CREATE DEFINER=`service`@`localhost` PROCEDURE `insert_subject`(IN subj varchar(45), IN cnt int)
+BEGIN
+	INSERT INTO discover.stat_subject_counts (subject_type, count) VALUES (subj, cnt);
+END
+
+

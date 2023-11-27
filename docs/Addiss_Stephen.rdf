@@ -86,27 +86,6 @@
 	    <madsrdf:authoritativeLabel xml:lang="en">English</madsrdf:authoritativeLabel>
 	  </madsrdf:Language>
 	</madsrdf:associatedLanguage>
-	<bflc:contributorTo>
-		<bf:Work rdf:about="http://id.loc.gov/resources/works/2050961">
-			<bflc:aap>
-				Laozi. Tao te ching
-			</bflc:aap>
-		</bf:Work>
-	</bflc:contributorTo>
-	<bflc:contributorTo>
-		<bf:Work rdf:about="http://id.loc.gov/resources/works/17076086">
-			<bflc:aap>
-				Addiss, Stephen, 1935- The art of haiku
-			</bflc:aap>
-		</bf:Work>
-	</bflc:contributorTo>
-	<bflc:contributorTo>
-		<bf:Work rdf:about="http://id.loc.gov/resources/works/16095154">
-			<bflc:aap>
-				Seo, Audrey Yoshiko. sound of one hand : paintings and calligraphy by Zen master Hakuin
-			</bflc:aap>
-		</bf:Work>
-	</bflc:contributorTo>      
       </madsrdf:RWO>
     </madsrdf:identifiesRWO>
     <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/names"/>
@@ -117,6 +96,26 @@
     </madsrdf:fullerName>
     <identifiers:lccn xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/">n 78009070</identifiers:lccn>
     <identifiers:local xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/">(OCoLC)oca00145577</identifiers:local>
+	<bflc:contributorTo>
+	  <bf:Work rdf:about="http://id.loc.gov/resources/works/2050961">
+	    <bflc:aap>Laozi. Tao te ching</bflc:aap>
+	  </bf:Work>
+	</bflc:contributorTo>
+    <bflc:contributorTo>
+	  <bf:Work rdf:about="http://id.loc.gov/resources/works/14802384">
+	    <bflc:aap>Laozi. Tao te ching</bflc:aap>
+	  </bf:Work>
+	</bflc:contributorTo>
+	<bflc:contributorTo>
+	  <bf:Work rdf:about="http://id.loc.gov/resources/works/17076086">
+	    <bflc:aap>Addiss, Stephen, 1935- The art of haiku</bflc:aap>
+	  </bf:Work>
+	</bflc:contributorTo>
+	<bflc:contributorTo>
+	  <bf:Work rdf:about="http://id.loc.gov/resources/works/16095154">
+	    <bflc:aap>Seo, Audrey Yoshiko. sound of one hand : paintings and calligraphy by Zen master Hakuin</bflc:aap>
+	  </bf:Work>
+	</bflc:contributorTo>
     <madsrdf:hasSource>
       <madsrdf:Source>
 	<madsrdf:citationSource>His Wanga paintings, c1975:</madsrdf:citationSource>
@@ -146,21 +145,21 @@
       </madsrdf:Source>
     </madsrdf:hasSource>
     <madsrdf:hasSource>
-      <madsrdf:Source>
+      <madsrdf:Source rdf:about=http://id.loc.gov/resources/works/2050961>
 	<madsrdf:citationSource>Lao-tzu Tao te ching, c1993:</madsrdf:citationSource>
 	<madsrdf:citationNote>CIP t.p. (Stephen Addiss) CIP data sheet (b. Apr. 2, 1935)</madsrdf:citationNote>
 	<madsrdf:citationStatus>found</madsrdf:citationStatus>
       </madsrdf:Source>
     </madsrdf:hasSource>
     <madsrdf:hasSource>
-      <madsrdf:Source>
+      <madsrdf:Source rdf:about=http://>
 	<madsrdf:citationSource>Addiss, Stephen. Haiku humor, 2007:</madsrdf:citationSource>
 	<madsrdf:citationNote>ECIP t.p. (Stephen Addiss)</madsrdf:citationNote>
 	<madsrdf:citationStatus>found</madsrdf:citationStatus>
       </madsrdf:Source>
     </madsrdf:hasSource>
     <madsrdf:hasSource>
-      <madsrdf:Source>
+      <madsrdf:Source rdf:about=http://>
 	<madsrdf:citationSource>In the year of the pig, 2005:</madsrdf:citationSource>
 	<madsrdf:citationNote>credits (Steve Addiss; music)</madsrdf:citationNote>
 	<madsrdf:citationStatus>found</madsrdf:citationStatus>
@@ -238,3 +237,4 @@
     </skos:changeNote>
   </madsrdf:PersonalName>
 </rdf:RDF>
+
