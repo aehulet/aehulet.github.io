@@ -29,6 +29,11 @@ layout: page
 
  * [Department of Planning and Development Director's Office Correspondence](http://archives.seattle.gov/finding-aids/repositories/2/resources/1840)
 
+## Institutional Data Project Metadata Standard, San Diego State University
+<p>I was on a team of librarians that adapted and refined metadata standards for SDSU's Institutional Data Project, part of the LOC's Program for Cooperative Cataloging. We created proxy authority records for SDSU faculty. I applied the standard to hundreds of Wikidata authority records and made recommendations for modifications based on existing Wikidata property definitions and available source data. The below page also contains links to several SPARQL queries I wrote that extract data and statistics from the Wikidata record set. </p>
+ 
+ * [Metadata Standard Project Page](https://www.wikidata.org/wiki/Wikidata:WikiProject_PCC_Wikidata_Pilot/San_Diego_State_University/SDSU_Institutional_Data_Project)
+
 ## Traditional Metadata Encodings
 <p>Here are some example of resource descriptions I've done using traditional encoding standards.</p>
  * [Dublin Core - Tao Te Ching](/docs/dc_taoteching.xml)<br>
