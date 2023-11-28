@@ -21,10 +21,10 @@ layout: page
     email: <a href='emailto:andrehulet@gmail.com' target='_blank'>andrehulet@gmail.com</a>
 </p>
 <p>
-    <img class="logo" style="vertical-align: text-top" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
+    <span  style="vertical-align: text-top"><img class="logo" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></span>
     ORCID: <a href="https://orcid.org/0009-0006-8772-9735" target='_blank'> https://orcid.org/0009-0006-8772-9735</a>
 </p>
 <p>
-    <img class="logo" style="vertical-align: text-top" alt="OSF logo" src="/docs/osf_black.png" width="45" height="16" />
+    <span style="vertical-align: text-top"><img class="logo" alt="OSF logo" src="/docs/osf_black.png" width="45" height="16" /></span>
     Open Science Framework: <a href="https://osf.io/ue7m8/" target='_blank'> https://osf.io/ue7m8/</a>
 </p>
