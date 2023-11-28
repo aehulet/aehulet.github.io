@@ -16,13 +16,13 @@ layout: page
  
 <p>My updated work/instance file below more thoroughly describes the work as recorded in the Hackett instance. The work description would replace the two existing works on id.loc.gov, and both the LOC Hackett instance and the Shambala instance would be linked to it. </p>
 
- * [Improved Tao Te Ching Work/Instance, BIBFRAME](/docs/bibframe_taoteching.rdf) 
+ * [Improved Tao Te Ching Work/Instance, BIBFRAME](/docs/bibframe_taoteching_rdf.txt) 
 
 ## Modeling Name Authority in MADS, SKOS & BIBFRAME
 <p>While analyzing the links for my Tao Te Ching entry, it was clear that the authority entry for Stephen Addiss, the artist and translator who worked on the book, needed additional information. In particular, there are no links to his most well-known works, including the Tao Te Ching. I used the BIBFRAME Extension (bflc) vocabulary to record references to these works to enhance description and information retrieval.</p>
 
  * [Stephen Addiss Authority Record on id.loc.gov](http://id.loc.gov/authorities/names/n78009070)<br>
- * [Enhanced Stephen Addiss Authority Record](/docs/Addiss_Stephen.rdf)
+ * [Enhanced Stephen Addiss Authority Record](/docs/Addiss_Stephen_rdf.txt)
 
 ## Digital Archiving with DACS/EAD
 <p>I created this archive of Alan Justad's emails for Seattle Municipal archives. I used ePADD software to initially organize the thousands of emails using machine learning functionality, performed weeding and other manual reorganization activities, and described its series and sub-series prior to publishing using DACS/EAD.</p>
