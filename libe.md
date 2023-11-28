@@ -8,8 +8,8 @@ layout: page
 </style>
 # Librarianship
 
-## Research
-<p>I am currently conducting research on linked data semantics with Darnelle Melvin and Cory Lampert at the University of Nevada-Las Vegas. Some general research questions we have are: What advantage might graph visualization have for information seeking processes, especially for research and data management? Which data structures facilitate information retrieval? How does graph visualization impact search & discovery applications?</p>
+## Research Interests
+<p>I am currently conducting research on linked data semantics with Darnelle Melvin and Cory Lampert at the University of Nevada-Las Vegas. Some general research questions we have are: What advantage might graph visualization have for information seeking processes, especially for research and data management? Do data structures facilitate linked data retrieval more than others? How does graph visualization impact search & discovery applications?</p>
 
 **Publications:** 
  * [WikiframeVG: A SPARQL Template-based Framework for Wikidata Graph Exploration and Visualization](https://osf.io/pbm8k/) - 2023

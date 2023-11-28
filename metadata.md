@@ -14,7 +14,7 @@ layout: page
   * [Work on id.loc.gov linked to Shambala instance](https://id.loc.gov/resources/works/14802384.html)<br>
   * [Tao Te Ching hub on id.loc.gov](https://id.loc.gov/resources/hubs/42abf244-bec0-a8f9-beeb-828bd5338bb7.html)
  
-<p>My updated work/instance file below more thoroughly describes the work as recorded in the Hackett instance. The work description would replace the two existing works on id.loc.gov, and both the LOC Hackett instance and the Shambala instance would be linked to it. </p>
+<p>My updated work/instance file below more thoroughly describes the work and Hackett instance. The work description would replace the two existing works on id.loc.gov, the LOC Hackett instance would be updated to match mine, and both the Hackett and Shambala instances would be linked to my new work description. </p>
 
  * [Improved Tao Te Ching Work/Instance, BIBFRAME](/docs/bibframe_taoteching_rdf.txt) 
 
