@@ -5,7 +5,7 @@
     <bf:mainTitle>Tao Te Ching</bf:mainTitle>
    </bf:Title>
   </bf:title>
-  <bf:responsibilityStatement>Stephen Addiss and Stanley Lombardo</bf:responsibilityStatement>
+  <bf:responsibilityStatement>Text by Lao-tzu. Translated, with preface, glossary and pronunciation guide, by Stephen Addiss and Stanley Lombardo. Introduced by Burton Watson. Ink paintings by Stephen Addiss.</bf:responsibilityStatement>
   <bf:provisionActivity>
    <bf:Publication>
     <bf:date>1993</bf:date>
@@ -19,21 +19,6 @@
    </bf:Publication>
   </bf:provisionActivity>
   <bf:copyrightDate>1993</bf:copyrightDate>
-  <bf:contribution>
-   <bf:Contribution>
-    <bf:role>
-     <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/trl">
-      <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Translator</rdfs:label>
-     </bf:Role>
-    </bf:role>
-    <bf:agent>
-     <bf:Agent rdf:about="http://id.loc.gov/authorities/names/n81135727">
-      <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#PersonalName"/>
-      <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Lombardo, Stanley, 1943-</rdfs:label>
-     </bf:Agent>
-    </bf:agent>
-   </bf:Contribution>
-  </bf:contribution>
   <bf:issuance>
    <bf:Issuance rdf:about="http://id.loc.gov/vocabulary/issuance/mono">
     <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">single unit</rdfs:label>
@@ -41,8 +26,20 @@
   </bf:issuance>
   <bf:identifiedBy>
    <bf:Isbn>
-    <rdf:value>0-87220-232-1</rdf:value>
+    <rdf:value>087220233X</rdf:value>
+    <bf:qualifier>(alk. paper)</bf:qualifier>
    </bf:Isbn>
+  </bf:identifiedBy>
+  <bf:identifiedBy>
+   <bf:Isbn>
+    <rdf:value>0872202321</rdf:value>
+    <bf:qualifier>(pbbk.: alk. paper)</bf:qualifier>
+   </bf:Isbn>
+  </bf:identifiedBy>
+  <bf:identifiedBy>
+   <bf:Lccn>
+    <rdf:value>93021939</rdf:value>
+   </bf:Lccn>
   </bf:identifiedBy>
   <bf:note>
    <bf:Note>
@@ -66,9 +63,10 @@
   </bf:media>
   <bf:extent>
    <bf:Extent>
-    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">cm</rdfs:label>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">106 p.</rdfs:label>
    </bf:Extent>
   </bf:extent>
+  <bf:dimensions>22 cm</bf:dimensions>
   <bf:carrier>
    <bf:Carrier rdf:about="http://id.loc.gov/vocabulary/carriers/nc">
     <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">volume</rdfs:label>
@@ -138,8 +136,12 @@
     <bf:title>
      <bf:Title>
       <bf:mainTitle>Tao Te Ching</bf:mainTitle>
-      <bf:mainTitle>Tao Te Ching</bf:mainTitle>
      </bf:Title>
+    </bf:title>
+    <bf:title>
+     <bf:VariantTitle>
+      <bf:mainTitle>Lao-tzu</bf:mainTitle>
+     </bf:VariantTitle>
     </bf:title>
     <bf:genreForm>
      <bf:GenreForm>
@@ -197,7 +199,7 @@
       </bf:agent>
       <bf:role>
        <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/aui">
-        <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Author of introduction, etc.</rdfs:label>
+        <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Author of introduction</rdfs:label>
        </bf:Role>
       </bf:role>
      </bf:Contribution>
