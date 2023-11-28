@@ -17,6 +17,7 @@ layout: page
  **Presentations:** 
  * [WikiframeVG: A SPARQL Template-based Wikiframe for Wikidata Graph Exploration](https://osf.io/p9by4/) - July 12, 2023
  * [WikiframeVG: A Search and Discovery Application for Wikidata Projects](https://osf.io/kh4t9/) - October 31, 2023
+ 
 **Research in progress:**
  * [List of relevant literature (Dec 2023)](/docs/research_list.xlsx)
 
