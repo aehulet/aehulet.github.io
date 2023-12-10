@@ -37,6 +37,8 @@ layout: page
     }
 </style>
 
+# Metadata & Cataloging
+
 <div id="outer">
 <div class="child"><img src="/docs/bibframe-newlogo.jpg" id="bib"></div>
 <div class="child"><img src="/docs/rda.png"></div>
@@ -46,7 +48,6 @@ layout: page
 <div class="child"><img src="/docs/marc21.png" id="marc"></div>
 </div>
 
-# Metadata & Cataloging
 ## Modeling Works in BIBFRAME
 <p>BIBFRAME, the works cataloging ontology from Library of Congress, promises to improve catalog accessibility and accuracy by storing metadata as linked data. In the below examples, I show the results of my effort to effectively catalog  as BIBFRAME the Hackett Publishing instance of the Tao Te Ching, which is an original translation. The existing entries at id.loc.gov have several problems: a later version of the work, published by Shambala, is listed as a separate work with its own instance rather than a new instance of the same work; several discrepancies exist between the two work entries; neither work refers to the appropriate work hub, that is, the original Chinese text.
  </p>

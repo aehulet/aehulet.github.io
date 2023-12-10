@@ -19,12 +19,14 @@ layout: page
         text-align: center;
     }
     .child span {
-        vertical-align: middle;
+        vertical-align: top;
     }
     .child img {
         object-fit: cover;
     }
 </style>
+
+# Technical Work Examples
 
 <div id="outer">
 <div class="child"><img src="/docs/python.png" width="76" height="76"><span> Python</span></div>
@@ -35,7 +37,7 @@ layout: page
 <div class="child"><img src="/docs/sql2.png" width="76" height="76"><span> SQL</span></div>
 </div>
 
-# Technical Work Examples
+
 ## Search & Discovery with Wikiframe Visual Graph
 <p>I am the project developer for WikiframeVG, which is a linked data search & discovery application for the Wikidata Knowledge Graph, one of the world's largest. I manage the project in conjunction with Darnelle Melvin and Cory Lampert, both of the University of Nevada-Las Vegas, which provided funding for the effort.</p>
 <p>WikiframeVG allows organizations and project teams to set the scope of the data that the application searches. This is a critical feature, since Wikidata contains billions of statements, which become an impediment to efficient search in some instances. The prototype version (link below) allows users to search UNLV special collections data. Wikiframe combines traditional keyword and faceted search with semantic search made possible with linked data stores. The application graphs relationships between all search results, and users interact with the graph to search based on defined entity values, such as a person's occupation. Wikiframe also creates geographical maps of results when location data are present.</p>
