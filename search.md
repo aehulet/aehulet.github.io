@@ -15,7 +15,7 @@ layout: page
     .child {
         background-color: white;
         padding: 25px;
-        font-size: 42px;
+        font-size: 24px;
         text-align: center;
     }
     .child span {
@@ -31,8 +31,8 @@ layout: page
 <div class="child"><img src="/docs/js.png" width="76" height="76"><span> JavaScript</span></div>
 <div class="child"><img src="/docs/django.png" width="76" height="76"><span> Django</span></div>
 <div class="child"><img src="/docs/rdf.png" width="72" height="76"><span> RDF</span></div>
-<div class="child"><img src="/docs/sparql.png" width="85" height="76"><span> SPARQL</span></div>
-<div class="child"><img src="/docs/sql2.png" width="auto" height="76"><span> SQL</span></div>
+<div class="child"><img src="/docs/sparql.png" width="76" height="76"><span> SPARQL</span></div>
+<div class="child"><img src="/docs/sql2.png" width="76" height="76"><span> SQL</span></div>
 </div>
 
 # Technical Work Examples
