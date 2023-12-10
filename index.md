@@ -12,7 +12,7 @@ layout: page
     }
     #text {
         position: absolute;
-        top: 25%;
+        top: 50%;
         left: 50%;
         transform: translate(-50%, -50%);
         color: black;

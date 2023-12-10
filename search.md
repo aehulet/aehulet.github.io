@@ -27,12 +27,12 @@ layout: page
 </style>
 
 <div id="outer">
-<div class="child"><img src="docs/python.png" width="76" height="76"><span> Python</span></div>
-<div class="child"><img src="docs/js.png" width="76" height="76"><span> JavaScript</span></div>
-<div class="child"><img src="docs/django.png" width="76" height="76"><span> Django</span></div>
-<div class="child"><img src="docs/rdf.png" width="72" height="76"><span> RDF</span></div>
-<div class="child"><img src="docs/sparql.png" width="85" height="76"><span> SPARQL</span></div>
-<div class="child"><img src="docs/sql2.png" width="auto" height="76"><span> SQL</span></div>
+<div class="child"><img src="/docs/python.png" width="76" height="76"><span> Python</span></div>
+<div class="child"><img src="/docs/js.png" width="76" height="76"><span> JavaScript</span></div>
+<div class="child"><img src="/docs/django.png" width="76" height="76"><span> Django</span></div>
+<div class="child"><img src="/docs/rdf.png" width="72" height="76"><span> RDF</span></div>
+<div class="child"><img src="/docs/sparql.png" width="85" height="76"><span> SPARQL</span></div>
+<div class="child"><img src="/docs/sql2.png" width="auto" height="76"><span> SQL</span></div>
 </div>
 
 # Technical Work Examples

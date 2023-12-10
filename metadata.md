@@ -38,12 +38,12 @@ layout: page
 </style>
 
 <div id="outer">
-<div class="child"><img src="docs/bibframe-newlogo.jpg" id="bib"></div>
-<div class="child"><img src="docs/rda.png"></div>
-<div class="child"><img src="docs/ead.png"></div>
+<div class="child"><img src="/docs/bibframe-newlogo.jpg" id="bib"></div>
+<div class="child"><img src="/docs/rda.png"></div>
+<div class="child"><img src="/docs/ead.png"></div>
 <div class="child" id="dacs">DACS</div>
-<div class="child"><img src="docs/mods.png"></div>
-<div class="child"><img src="docs/marc21.png" id="marc"></div>
+<div class="child"><img src="/docs/mods.png"></div>
+<div class="child"><img src="/docs/marc21.png" id="marc"></div>
 </div>
 
 # Metadata & Cataloging
