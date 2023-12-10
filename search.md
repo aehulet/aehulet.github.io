@@ -19,7 +19,7 @@ layout: page
         text-align: center;
     }
     .child span {
-        vertical-align: top;
+        vertical-align: middle;
     }
     .child img {
         object-fit: cover;
