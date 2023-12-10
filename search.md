@@ -5,17 +5,47 @@ layout: page
     p {
         margin-left: 10px;
     }
+    #outer {
+        display: grid;
+        grid-template-columns: auto auto auto;
+        gap: 0;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+    .child {
+        background-color: white;
+        padding: 25px;
+        font-size: 42px;
+        text-align: center;
+    }
+    .child span {
+        vertical-align: top;
+    }
+    .child img {
+        object-fit: cover;
+    }
 </style>
+
+<div id="outer">
+<div class="child"><img src="docs/python.png" width="76" height="76"><span> Python</span></div>
+<div class="child"><img src="docs/js.png" width="76" height="76"><span> JavaScript</span></div>
+<div class="child"><img src="docs/django.png" width="76" height="76"><span> Django</span></div>
+<div class="child"><img src="docs/rdf.png" width="72" height="76"><span> RDF</span></div>
+<div class="child"><img src="docs/sparql.png" width="85" height="76"><span> SPARQL</span></div>
+<div class="child"><img src="docs/sql2.png" width="auto" height="76"><span> SQL</span></div>
+</div>
+
 # Technical Work Examples
 ## Search & Discovery with Wikiframe Visual Graph
 <p>I am the project developer for WikiframeVG, which is a linked data search & discovery application for the Wikidata Knowledge Graph, one of the world's largest. I manage the project in conjunction with Darnelle Melvin and Cory Lampert, both of the University of Nevada-Las Vegas, which provided funding for the effort.</p>
 <p>WikiframeVG allows organizations and project teams to set the scope of the data that the application searches. This is a critical feature, since Wikidata contains billions of statements, which become an impediment to efficient search in some instances. The prototype version (link below) allows users to search UNLV special collections data. Wikiframe combines traditional keyword and faceted search with semantic search made possible with linked data stores. The application graphs relationships between all search results, and users interact with the graph to search based on defined entity values, such as a person's occupation. Wikiframe also creates geographical maps of results when location data are present.</p>
-<p>Wikiframe is written in Python using the Django web framework and also uses javascript libraries for front-end visualization. The current implementation uses MySQL for data caching and Apache web server, all running on Ubuntu linux.</p>
+
  * [WikiframeVG website](https://wikiframe.library.unlv.edu)
  * [WikiframeVG github repository](https://github.com/UNLV-Libraries/wikidata-discovery-project)
 
 ## WikiframeVG Requirements Development
 <p>I functioned as a business analyst for the Wikiframe project as well. My requirements development approach expresses business requirements as high-level feature descriptions, to which functional and technical requirements are traced. I also cite the code modules that comprise the features so that developers know how to navigate the source code.</p>
+
  * [Requirements development site](https://github.com/UNLV-Libraries/wikidata-discovery-project/wiki)
 
 ## Querying with SPARQL

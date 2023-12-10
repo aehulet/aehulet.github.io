@@ -7,11 +7,6 @@ layout: page
     p {
         margin-left: 10px;
     }
-    .photo {
-        display: inline;
-        float: right;
-        padding: 10px;
-    }
     table {
         overflow: visible;
         /* border-collapse: collapse;
@@ -20,12 +15,11 @@ layout: page
     }
 
 </style>
-<img class="photo" src="/ah_2.png" width="200" height="267" alt="photo of Andre Hulet">
 <p>This site shows my library and information science portfolio. If you're interested in what you see, please contact me.
 
 <table>
 <tr>
-    <td><img src="/docs/mail-message-5778.png" width="16" height="16" /></td>
+    <td><img src="docs/mail-message-5778.png" width="16" height="16" /></td>
     <td><a href='emailto:andrehulet@gmail.com' target='_blank'>andrehulet@gmail.com</a></td>
 </tr>
 <tr>
@@ -33,7 +27,7 @@ layout: page
     <td><a href="https://orcid.org/0009-0006-8772-9735" target='_blank'> https://orcid.org/0009-0006-8772-9735</a></td>
 </tr>
 <tr>
-    <td><img class="logo" alt="OSF logo" src="/docs/osf_black.png" width="45" height="16" /></td>
+    <td><img class="logo" alt="OSF logo" src="docs/osf_black.png" width="45" height="16" /></td>
     <td><a href="https://osf.io/ue7m8/" target='_blank'> https://osf.io/ue7m8/</a></td>
 </tr>
 </table>
